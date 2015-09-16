@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十誦羯磨比丘要用
+#+DATE: 2015-08-30 20:40:59.919160
+#+PROPERTY: JUAN 0
